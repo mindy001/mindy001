@@ -1,7 +1,111 @@
 ---
 title: "FazeeiaMohammed.github.io"
+author: "Fazeeia Mindy Mohammed"
+format: pdf
+mainfont: XCharter
+fontsize: 12pt
+geometry: margin=1in
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \urlstyle{same}
+  - \setlength{\tabcolsep}{0in}
+  - \titleformat{\section}{\color{gray}\titlerule \vspace{-5pt} \vspace{8pt}\scshape\raggedright\normalfont}{}{0pt}{}
+  - \newcommand{\resumeItem}[1]{\item\small{#1 \vspace{-2pt}}}
+  - \newcommand{\resumeSubheading}[4]{\vspace{-2pt}\item \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r} \textbf{#1} & #2 \\ \textit{\small#3} & \textit{\small #4} \\ \end{tabular*}\vspace{-7pt}}
+  - \newcommand{\resumeSubSubheading}[2]{\item \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r} \textit{\small#1} & \textit{\small #2} \\ \end{tabular*}\vspace{-7pt}}
+  - \newcommand{\resumeProjectHeading}[2]{\item \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r} \small#1 & #2 \\ \end{tabular*}\vspace{-7pt}}
+  - \newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+  - \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+  - \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+  - \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+  - \newcommand{\resumeItemListStart}{\begin{itemize}}
+  - \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 ---
 
-This is a Quarto website.
+# Fazeeia Mindy Mohammed
+
+{{< figure src="dp_cropped" scale="0.2" align="right" >}}
+
+[Email](mailto:mindy.moh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed-528a42b9/) | [GitHub](https://github.com/Fazeeia) | +18682815604
+
+## Education
+
+- **University of the West Indies**
+  - B.Sc (Special) Computer Science
+    - Upper Second Class Honours
+  - B.Sc Environmental and Natural Resource Management
+
+## Experience
+
+- **Data Specialist Sustainability**  
+  School of Business and Computer Science  
+  04/2024 - Present
+  - Data Collection initiatives for Environment Social and Governance compliance with Paris Agreement
+  - Participated in co-ordination efforts for Business Forum
+
+- **Lecturer**  
+  School of Business and Computer Science  
+  01/2024 - Present
+  - Created course material for AI and Machine Learning for Business Professionals
+  - Applied data science techniques for customer segmentation
+
+- **Data Analyst**  
+  Rystad Energy  
+  10/2023 - 01/2024
+  - Created data-scrapers for curating data from government websites
+  - Applied heuristics to features scraped from different sources
+  - Ensured data validation and structured entity relationship diagrams for database
+  - Expanded the data-set for wind energy generation modelling
+
+- **Data Analyst**  
+  Digicel Group  
+  03/2022 - 10/2023
+  - Extracted and analyzed customer data from Oracle SQL Database to identify non-revenue generating customers, resulting in a 40% increase in revenue activity within this group
+  - Developed efficient data pipelines for processing and transforming large datasets
+  - Proficiently manipulated Excel files for data integration and analysis
+  - Created Financial Forecasting Models
+  - Built CHURN prediction models
+
+- **Lead Technical Liaison**  
+  TTLAB collaboration with The Cropper Foundation  
+  08/2021 - 03/2022
+  - Managed a team of 12 individuals for a mobile application project aimed at predicting water stress and crop damage
+  - Utilized UAV for data collection
+  - Implemented machine learning techniques to support climate change resilient agriculture
+
+- **Internship**  
+  Wepala  
+  05/2021 - 08/2021
+  - Designed user interfaces
+  - Created chat-bots
+  - Utilized data analytic techniques to improve user interaction
+
+## Publications
+
+- **The evaluation of machine learning models in the agriculture sector of Caribbean SIDS as it applies to weed detection and water-stress in *Capsicum annuum* and *Brassica chinensis L.* mono-cropped fields for artificial intelligence application development**, *Celebrating 100 years of Agricultural Research and Innovation Conference Proceedings*, [Link](https://tinyurl.com/FFA100yrconferenceproceedings)
+- **Weed and Water Stress Detection using Drone Video**, *Proceedings of the 3rd International Conference on Smart and Innovative Agriculture (ICoSIA 2022)*, [Link](https://www.atlantis-press.com/proceedings/icosia-22)
+- **An Open Dataset of Labelled Tropical Crops**, *Proceedings of the 3rd International Conference on Smart and Innovative Agriculture (ICoSIA 2022)*, [Link](https://www.atlantis-press.com/proceedings/icosia-22)  
+  *Recipient of the Best Paper Award at the conference.*
+- **Artificial Intelligence in the Agriculture sector of small island developing states in the Caribbean**, *Celebrating 100 years of Agricultural Research and Innovation Conference Proceedings*, [Link](https://tinyurl.com/FFA100yrconferenceproceedings)
+- **Working On: Bilingual NLP models for the Caribbean**
+
+## Research Extracurricular
+
+- **WIDS Mentor**, Women in Data Science 2023 Datathon Competition
+- **Internship Mentor**, The Cropper Foundation in Collaboration with the University of the West Indies
+- **National Geographic Society’s and Microsoft’s AI for Earth Innovation Grant**, 2021  
+  Awarded $70,000 USD grant to promote sustainable farming techniques using Machine Learning
+- **ICPC**, Regional Competition
+
+## Skills
+
+- **Languages**: Python, Java, C++, JavaScript, HTML/CSS, R, SQL, Kotlin
+- **Human Languages**: Spanish (Intermediate), English (Expert)
+- **Tools**: Jupyter Notebooks, Git, Google Cloud Platform, VS Code, Power BI, Toad
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
