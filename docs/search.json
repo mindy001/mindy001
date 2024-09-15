@@ -7,10 +7,17 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
     "title": "About",
-    "section": "",
-    "text": "About this site"
+    "section": "Education",
+    "text": "Education\n\nUniversity of the West Indies\nB.Sc (Special) Computer Science\nUpper Second Class Honours\nUniversity of the West Indies\nB.Sc Environmental and Natural Resource Management"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nData Specialist - Sustainability (Full Time)\nSchool of Business and Computer Science\n04/2024 - Present\n\nLead data collection initiatives for Environment Social and Governance (ESG) compliance with the Paris Agreement.\nParticipated in co-ordination efforts for Business Forum.\n\n\n\nLecturer (Part Time)\nSchool of Business and Computer Science\n01/2024 - Present\n\nCreated course material for AI and Machine Learning for Business Professionals.\nApplied data science techniques for customer segmentation.\n\n\n\nData Analyst (Full Time)\nRystad Energy\n10/2023 - 01/2024\n\nDeveloped data-scrapers for curating data from government websites.\nApplied heuristics to features scraped from different sources.\nEnsured data validation and structured entity relationship diagrams for database.\nExpanded the data-set for wind energy generation modelling.\n\n\n\nData Analyst (Full Time)\nDigicel Group\n03/2022 - 10/2023\n\nExtracted and analyzed customer data from Oracle SQL Database to identify non-revenue generating customers, resulting in a 40% increase in revenue activity within this group.\nDeveloped efficient data pipelines for processing and transforming large datasets.\nProficiently manipulated Excel files for data integration and analysis.\nCreated Financial Forecasting Models to predict revenue.\nBuilt CHURN prediction models to identify potential customer CHURN.\n\n\n\nLead Technical Liaison (Full Time)\nTTLAB collaboration with The Cropper Foundation\n08/2021 - 03/2022\n\nManaged a team of 12 in the development of a mobile application for predicting water stress and crop damage.\nUtilized UAV for data collection and research on crop damage.\nCoordinated research project objectives and ensured successful delivery of project goals. About this site"
   }
 ]
