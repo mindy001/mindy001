@@ -2,6 +2,11 @@
 title: "About"
 ---
 ## Fazeeia Mohammed
+## Professional Summary
+
+Fazeeia Mindy Mohammed is a seasoned data specialist and educator with a diverse background in computer science and environmental management. With extensive experience in data analysis, machine learning, and sustainability, Fazeeia excels at leveraging data to drive strategic decisions and enhance operational efficiency.
+
+Her career spans multiple industries, including energy, telecommunications, and academia, where she has made significant contributions through innovative data solutions and effective team leadership. Her expertise in data collection, analysis, and forecasting has enabled her to deliver impactful results and support key business objectives.
 ## Education
 
 - **University of the West Indies**  
