@@ -68,25 +68,7 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
 - 🧑‍🏫 **Mentor** — Cropper Foundation Internship Program 2022  
 - 🏅 **ICPC Regional Competitor** 2021
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindy001&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mindy001&theme=default" alt="GitHub Streak" />
-
- 
-
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindy001&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mindy001&theme=default" />
-  <img src="https://raw.githubusercontent.com/mindy001/mindy001/main/github-metrics.svg" />
-</p>
-
----
 
 > 📌 *Looking to collaborate on AI for Sustainability, Agriculture, or Bilingual NLP in Caribbean contexts.*
 
