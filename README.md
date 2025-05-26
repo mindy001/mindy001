@@ -73,9 +73,9 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?mindy001=your-github-mindy001&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-mindy001&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
