@@ -82,11 +82,8 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindy001&layout=compact&theme=default" alt="Top Languages" />
- ![Visitor Badge](https://komarev.com/ghpvc/?username=mindy001&label=Profile%20views&color=0e75b6&style=flat)
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mindy001&theme=default" />
- <!-- Markdown badge -->
-<img src="https://raw.githubusercontent.com/mindy001/mindy001/main/github-metrics.svg" />
-
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mindy001&theme=default" />
+  <img src="https://raw.githubusercontent.com/mindy001/mindy001/main/github-metrics.svg" />
 </p>
 
 ---
