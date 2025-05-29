@@ -19,17 +19,21 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
 
 - **Weed and Water Stress Detection using Drone Video**  
   *ICoSIA 2022 Conference Proceedings*  
-  🏆 Best Paper Award  
+  🏆 *Best Paper Award*  
   [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
 
 - **Machine Learning in Agriculture of Caribbean SIDS**  
-  [Celebrating 100 Years of Agricultural Research](https://tinyurl.com/FFA100yrconferenceproceedings)
+  *Celebrating 100 Years of Agricultural Research*  
+  [Read here](https://tinyurl.com/FFA100yrconferenceproceedings)
 
 - **Open Dataset of Labeled Tropical Crops**  
-  [ICoSIA 2022 Proceedings](https://www.atlantis-press.com/proceedings/icosia-22)
+  *ICoSIA 2022 Conference Proceedings*  
+  [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
 
--  **Bilingual NLP Models for the Caribbean**
-  [Proceedings of the Fourth International Conference on Advances in Computer Engineering and Communication Systems (ICACECS 2023)](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
+- **Bilingual NLP Models for the Caribbean**  
+  *Proceedings of the Fourth International Conference on Advances in Computer Engineering and Communication Systems (ICACECS 2023)*  
+  [Read here (PDF)](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
+
 
 ---
 
