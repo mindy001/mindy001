@@ -28,7 +28,8 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
 - **Open Dataset of Labeled Tropical Crops**  
   [ICoSIA 2022 Proceedings](https://www.atlantis-press.com/proceedings/icosia-22)
 
-- 🛠 Working On: **Bilingual NLP Models for the Caribbean**
+-  **Bilingual NLP Models for the Caribbean**
+  [ Proceedings of the Fourth International Conference on Advances in Computer Engineering and Communication Systems (ICACECS 2023)](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
 
 ---
 
