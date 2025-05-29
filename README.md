@@ -3,7 +3,7 @@
 
 🎓 MSc Data Science | 🌱 Sustainability & AI Advocate | 📊 Data Analyst | 📍 Trinidad & Tobago  
 📫 mindy.moh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed-528a42b9/)  
 
 ---
 
