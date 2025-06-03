@@ -34,7 +34,8 @@ I’m currently pursuing my **MSc in Data Science at the University of British C
   *Proceedings of the Fourth International Conference on Advances in Computer Engineering and Communication Systems (ICACECS 2023)*  
   [Read here (PDF)](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
 
-
+- **Dashboard on Canadian House Prices**
+  [Take a look](https://canadian-house-prices.onrender.com/)
 ---
 
 ## 💼 Experience Highlights
