@@ -37,8 +37,8 @@ Currently, I'm pursuing an MSc in Data Science at the University of British Colu
 
 ## 📊 Projects & Dashboards
 
-📌 [Canadian House Prices Dashboard](#https://canadian-house-prices.onrender.com/)  
-📌 [Datathon](#https://github.com/mindy001/NIH-Chest-XRay-Classifier)  
+📌 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)  
+📌 [Datathon](https://github.com/mindy001/NIH-Chest-XRay-Classifier)  
 📌 [Carbon-Aware ML Package (Capstone)](https://github.com/mindy001/carbon-aware-ml)
 
 ---
