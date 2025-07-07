@@ -1,80 +1,91 @@
-# FazeeiaMohammed.github.io
-# 👩🏽‍💻 Fazeeia Mindy Mohammed
+# 👋 Hi, I'm Fazeeia Mindy Mohammed
 
-🎓 MSc Data Science | 🌱 Sustainability & AI Advocate | 📊 Data Analyst | 📍 Trinidad & Tobago  
-📫 mindy.moh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed-528a42b9/)  
-
----
-
-## 👋 About Me
-
-Hi there! I'm **Fazeeia Mindy Mohammed**, a passionate Data Scientist and Analyst with a background in **Computer Science** and **Environmental Resource Management**. I specialize in using **Machine Learning** and **AI** to address **sustainability challenges** in agriculture, energy, and business sectors.
-
-I’m currently pursuing my **MSc in Data Science at the University of British Columbia**, with prior experience leading impactful projects in ESG, renewable energy forecasting, mobile app development for farmers, and financial analytics.
+🎓 MSc Data Science @ UBC | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🌱 ESG & Sustainability Advocate  
+📍 Based in Vancouver, originally from Trinidad & Tobago  
+📫 Reach me at: mindy.moh@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazeeiamohammed) | [GitHub](https://github.com/mindy001)
 
 ---
 
-## 🔬 Research & Publications
+## 👩🏽‍💻 About Me
 
-- **Weed and Water Stress Detection using Drone Video**  
-  *ICoSIA 2022 Conference Proceedings*  
-  🏆 *Best Paper Award*  
-  [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
+I'm Fazeeia, a Data Analyst and Data Scientist with a strong interdisciplinary background in Computer Science and Environmental & Natural Resource Management. My work focuses on using data to solve complex problems in sustainability, energy, business intelligence, and public good sectors.
 
-- **Machine Learning in Agriculture of Caribbean SIDS**  
-  *Celebrating 100 Years of Agricultural Research*  
-  [Read here](https://tinyurl.com/FFA100yrconferenceproceedings)
+With over 5 years of experience across analytics, AI, and machine learning, I've worked with banks, telecoms, NGOs, and climate-focused research teams. I specialize in developing data pipelines, dashboards, and predictive models that inform smarter decisions and create impact.
 
-- **Open Dataset of Labeled Tropical Crops**  
-  *ICoSIA 2022 Conference Proceedings*  
-  [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
-
-- **Bilingual NLP Models for the Caribbean**  
-  *Proceedings of the Fourth International Conference on Advances in Computer Engineering and Communication Systems (ICACECS 2023)*  
-  [Read here (PDF)](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
-
-- **Dashboard on Canadian House Prices**
-  [Take a look](https://canadian-house-prices.onrender.com/)
----
-
-## 💼 Experience Highlights
-
-- **Data Specialist (Sustainability)** – SBSC  
-  ➤ Led ESG data initiatives aligned with the Paris Agreement  
-  ➤ Coordinated business forums using data-driven strategies  
-
-- **Lecturer: AI & ML for Business**  
-  ➤ Taught machine learning techniques for business use-cases  
-
-- **Data Analyst** – Rystad Energy & Digicel  
-  ➤ Built scalable pipelines, predictive models, and financial forecasts  
-  ➤ Cleaned and modeled renewable energy data  
-
-- **Technical Liaison** – TTLAB / Cropper Foundation  
-  ➤ Led app development using drones and ML for crop stress detection  
-  ➤ Managed team of 12 across AI and software engineering tracks  
-
-- **Internships**: Wepala (NLP & UX), Teaching Assistant (Data Science)
+Currently, I'm pursuing an MSc in Data Science at the University of British Columbia, where my capstone project focuses on carbon-aware machine learning.
 
 ---
 
-## 🧠 Skills & Tools
+## 📈 Experience Highlights
 
-**Languages:** Python, Java, C++, R, SQL, JavaScript, HTML/CSS, Kotlin  
-**Tools:** Jupyter, Git, GCP, VS Code, Power BI, Toad  
-**Languages:** English (Expert), Spanish (Intermediate)
+**Sustainability Data Specialist – Republic Bank**  
+• Built ESG dashboards in Power BI using the Updapt platform  
+• Automated sustainability KPI tracking aligned with GRI/SASB  
+
+**Data Analyst – Rystad Energy & Digicel**  
+• Engineered pipelines and models for energy forecasting and churn prediction  
+• Applied NLP and financial analytics to improve operations and customer insights  
+
+**AI & ML Instructor – SBCS Global Learning Institute**  
+• Designed and taught an 8-week course on applied AI for business professionals  
+
+**Researcher & Technical Lead – TTLAB / Cropper Foundation**  
+• Developed drone-integrated ML tools for detecting crop stress  
+• Led a cross-functional team to deploy mobile applications for farmers  
 
 ---
 
-## 🏆 Awards & Involvement
+## 📊 Projects & Dashboards
 
-- 🧠 **AI for Earth Grant** — National Geographic + Microsoft ($70,000 USD)  
-- 🌎 **Mentor** — Women in Data Science (WiDS) 2023 Datathon  
-- 🧑‍🏫 **Mentor** — Cropper Foundation Internship Program 2022  
-- 🏅 **ICPC Regional Competitor** 2021
+📌 [Canadian House Prices Dashboard](#)  
+📌 [ESG KPI Tracker with Power BI](#)  
+📌 [Churn Prediction using Azure + Python](#)  
+📌 [Carbon-Aware ML Package (Capstone)](https://github.com/mindy001/carbon-aware-ml)
 
+---
 
+## 🧪 Research & Publications
 
-> 📌 *Looking to collaborate on AI for Sustainability, Agriculture, or Bilingual NLP in Caribbean contexts.*
+📄 *Weed and Water Stress Detection using Drone Video*  
+🏆 Best Paper – ICoSIA 2022 | [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
 
+📄 *Machine Learning in Agriculture of Caribbean SIDS*  
+Celebrating 100 Years of Agricultural Research | [Read here](https://online.pubhtml5.com/vilk/tcus/#p=1)
+
+📄 *Open Dataset of Labeled Tropical Crops*  
+ICoSIA 2022 | [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
+
+📄 *Bilingual NLP Models for the Caribbean*  
+ICACECS 2023 | [PDF](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python, SQL, R, Java, Shell, HTML/CSS  
+**Tools & Platforms:** Power BI, Tableau, Excel, Git, Jupyter, VS Code, Azure, Databricks  
+**Databases:** MySQL, Azure SQL, MongoDB  
+**ML & Analytics:** Scikit-learn, Pandas, BERT, Keras, NLP, Forecasting  
+**Other:** UiPath, Updapt ESG Platform, Toad  
+**Languages:** English (Fluent), Spanish (Intermediate)
+
+---
+
+## 🏆 Awards & Leadership
+
+- 🧠 *AI for Earth Grant* – Microsoft + National Geographic ($70,000)  
+- 🏅 *Best Paper* – ICoSIA 2022 for Drone-based Crop Detection  
+- 👩🏽‍🏫 Mentor – WiDS Datathon 2023, Cropper Internship Program 2022  
+- 🧠 ICPC Regional Competitor – 2021
+
+---
+
+## 🔗 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fazeeiamohammed)  
+- 📁 [GitHub](https://github.com/mindy001)  
+- 📫 mindy.moh@gmail.com
+
+---
+
+Thanks for stopping by! I’m always open to new collaborations in **data analysis, AI for climate, NLP for underrepresented regions**, and **data storytelling**.
