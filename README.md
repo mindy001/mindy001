@@ -2,7 +2,7 @@
 
 🎓 MSc Data Science @ UBC | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🌱 ESG & Sustainability Advocate  
 📍 Based in Vancouver, originally from Trinidad & Tobago  
-📫 Reach me at: mindy.moh@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazeeiamohammed) | [GitHub](https://github.com/mindy001)
+📫 Reach me at: mindy.moh@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed) | [GitHub](https://github.com/mindy001)
 
 ---
 
