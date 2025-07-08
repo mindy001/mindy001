@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fazeeia Mindy Mohammed
+# 👋 Hi, I'm Mindy 
 
 🎓 MSc Data Science @ UBC | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🌱 ESG & Sustainability Advocate  
 📍 Based in Vancouver, originally from Trinidad & Tobago  
