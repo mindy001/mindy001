@@ -35,14 +35,23 @@ Currently, I'm pursuing an MSc in Data Science at the University of British Colu
 
 ---
 
+
+
 ## 📊 Projects & Dashboards
 
-📌 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)  
-📌 [Datathon](https://github.com/mindy001/NIH-Chest-XRay-Classifier)  
-📌 [Carbon-Aware ML Package (under construction) (Capstone)](https://github.com/mindy001/carbon-aware-ml)
-📌 [Feature Selection](https://github.com/mindy001/FeatureSelection)
----
+- 📌 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)  
+  *An interactive dashboard visualizing Canadian real estate trends.*
 
+- 📌 [NIH Chest X-Ray Classifier (Datathon)](https://github.com/mindy001/NIH-Chest-XRay-Classifier)  
+  *A deep learning model for multi-label classification of chest X-ray pathologies.*
+
+- 📌 [Carbon-Aware ML Package (Capstone - In Progress)](https://github.com/mindy001/carbon-aware-ml)  
+  *A Python package and dashboard for monitoring the carbon footprint of machine learning models.*
+
+- 📌 [Feature Selection Toolkit](https://github.com/mindy001/FeatureSelection)  
+  *A toolkit exploring feature importance and selection techniques on real-world datasets.*
+
+---
 ## 🧪 Research & Publications
 
 📄 *Weed and Water Stress Detection using Drone Video*  
