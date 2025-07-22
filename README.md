@@ -8,7 +8,7 @@
 
 ## 👩🏽‍💻 About Me
 
-Hi, I’m Fazeeia Data Scientist with a unique interdisciplinary background in Computer Science and Environmental & Natural Resource Management. I’m passionate about using data to drive change in sustainability, energy, business intelligence, and public-good sectors.
+Hi, I’m Mindy Data Scientist with a unique interdisciplinary background in Computer Science and Environmental & Natural Resource Management. I’m passionate about using data to drive change in sustainability, energy, business intelligence, and public-good sectors.
 
 Over the past 5+ years, I’ve worked with banks, telecoms, NGOs, and climate research teams, building everything from real-time data pipelines to interactive dashboards and predictive models that solve real-world problems.
 
