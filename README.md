@@ -12,7 +12,7 @@ I'm a Data Scientist with a unique interdisciplinary background in **Computer Sc
 
 With 5+ years of experience across **banking, telecom, energy, agriculture**, and **NGOs**, I’ve built everything from **real-time pipelines** and **ML models** to **interactive dashboards** that improve transparency, planning, and outcomes.
 
-I believe **rigorous analysis meets its full potential through creativity and communication**—from data collection to dashboard delivery. I'm always exploring ways to simplify complexity, question assumptions, and create smarter systems for people and the planet.
+I believe **rigorous analysis meets its full potential through creativity and communication** from data collection to dashboard delivery. I'm always exploring ways to simplify complexity, question assumptions, and create smarter systems for people and the planet.
 
 ---
 
