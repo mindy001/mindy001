@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Mindy 
 
-🎓 MSc Data Science @ UBC | 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 🌱 ESG & Sustainability Advocate  
-📍 Based in Vancouver, originally from Trinidad & Tobago  
+🎓 MSc Data Science @ UBC | 📊 Turning Data into Insight | 🤖 ML for Impact | 🌱 Building Sustainable Solutions with Code
+📍 Based in Canada, originally from the Caribbean  
 📫 Reach me at: mindy.moh@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed) | [GitHub](https://github.com/mindy001)
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm Fazeeia, a Data Analyst and Data Scientist with a strong interdisciplinary background in Computer Science and Environmental & Natural Resource Management. My work focuses on using data to solve complex problems in sustainability, energy, business intelligence, and public good sectors.
+Hi, I’m Fazeeia — a Data Analyst and Data Scientist with a unique interdisciplinary background in Computer Science and Environmental & Natural Resource Management. I’m passionate about using data to drive change in sustainability, energy, business intelligence, and public-good sectors.
 
-With over 5 years of experience across analytics, AI, and machine learning, I've worked with banks, telecoms, NGOs, and climate-focused research teams. I specialize in developing data pipelines, dashboards, and predictive models that inform smarter decisions and create impact.
+Over the past 5+ years, I’ve worked with banks, telecoms, NGOs, and climate research teams, building everything from real-time data pipelines to interactive dashboards and predictive models that solve real-world problems.
 
-Currently, I'm pursuing an MSc in Data Science at the University of British Columbia, where my capstone project focuses on carbon-aware machine learning.
+I believe data is the starting point for smarter, more intelligent systems  but it's creativity that defines how we shape those systems. While data science is rooted in rigor and logic, the real breakthroughs happen when we reimagine how we collect, structure, and communicate data. I’m deeply curious, always questioning the “why,” and constantly looking for more efficient, streamlined, and impactful solutions.
+
+
 
 ---
 
