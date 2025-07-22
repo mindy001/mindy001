@@ -67,8 +67,7 @@ I believe **rigorous analysis meets its full potential through creativity and co
   *Analyzing and ranking feature importance in real-world datasets.*
   
 - 📌 [Bank Marketing Campaign Prediction](https://github.com/UBC-MDS/BankMarketingPreditions-)  
-  *Collaborative ML project (with Hala Arar, Fazeeia Mohammed, Rong Wan) to predict customer subscription to term deposits using logistic regression and decision trees. The models reached up to **89.7% accuracy**, highlighting challenges of class imbalance and offering strategies for better marketing targeting.*  
-   📄 [Report (PDF)](https://github.com/UBC-MDS/BankMarketingPreditions-/blob/main/bank_marketing_analysis.pdf)
+  *Collaborative ML project to predict customer subscription to term deposits using logistic regression and decision trees. The models reached up to **89.7% accuracy**, highlighting challenges of class imbalance and offering strategies for better marketing targeting.*  
 
 ---
 
