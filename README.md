@@ -35,7 +35,53 @@ Currently, I'm pursuing an MSc in Data Science at the University of British Colu
 
 ---
 
+## 🛠️ Tech Stack & Skills
 
+### 💻 Programming Languages  
+- Python  
+- SQL  
+- Java  
+- C++  
+- JavaScript  
+- C#  
+- Bash  
+
+### 📊 Data Science & Machine Learning  
+- Pandas  
+- scikit-learn  
+- TensorFlow  
+- PyTorch  
+- Keras  
+- XGBoost  
+
+### ☁️ Cloud & DevOps  
+- AWS  
+- Azure  
+- Docker  
+- GitHub Actions  
+- Linux  
+
+### 🧰 Tools & Platforms  
+- Power BI  
+- Tableau  
+- Excel  
+- Git  
+- Jupyter  
+- VS Code  
+- Databricks  
+- UiPath  
+- Updapt ESG Platform  
+- Toad  
+
+### 🧠 Databases  
+- MySQL  
+- Azure SQL  
+- MongoDB  
+
+### 🗣️ Languages  
+- English (Fluent)  
+- Spanish (Intermediate)  
+---
 
 ## 📊 Projects & Dashboards
 
