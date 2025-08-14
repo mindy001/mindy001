@@ -72,7 +72,7 @@ I believe **rigorous analysis meets its full potential through creativity and co
 - 📌 [Sano-Bot](https://github.com/TyreseLake/SanoBot-Chatbot)  
   *SanoBot is a healthcare Chatbot developed by Hotfix2020 using Dialogflow. It was created inorder for users to describe symptoms and determine a list of potential illnesses user may have as well as information on how contagious these illnesses might be. The team developed this application using the SCRUM methodology.*  
 
-- 📌 [Pharmacy-Frontend]([https://github.com/TyreseLake/SanoBot-Chatbot](https://uwi-hsu-pharmacy.netlify.app/))
+- 📌 [Pharmacy-Frontend](https://github.com/TyreseLake/SanoBot-Chatbot](https://uwi-hsu-pharmacy.netlify.app/)
 ---
 
 ## 📚 Research & Publications
