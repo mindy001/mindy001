@@ -61,7 +61,7 @@ I believe **rigorous analysis meets its full potential through creativity and co
   *Deep learning model for multi-label classification of chest X-rays.*
 
 - 📌 [Carbon-Aware ML Package (Capstone)](https://github.com/mindy001/carbon-aware-ml)  
-  *Python tool + dashboard for monitoring carbon impact of ML training.*
+  *Python tool + dashboard for monitoring carbon impact of ML training.UNDER CONSTRUCTION *
 
 - 📌 [Feature Selection Toolkit](https://github.com/mindy001/FeatureSelection)  
   *Analyzing and ranking feature importance in real-world datasets.*
@@ -70,7 +70,7 @@ I believe **rigorous analysis meets its full potential through creativity and co
   *Collaborative ML project to predict customer subscription to term deposits using logistic regression and decision trees. The models reached up to **89.7% accuracy**, highlighting challenges of class imbalance and offering strategies for better marketing targeting.*
   
 - 📌 [Sano-Bot](https://github.com/TyreseLake/SanoBot-Chatbot)  
-  *Collaborative chat bot project to assist medical professionals*  
+  *SanoBot is a healthcare Chatbot developed by Hotfix2020 using Dialogflow. It was created inorder for users to describe symptoms and determine a list of potential illnesses user may have as well as information on how contagious these illnesses might be. The team developed this application using the SCRUM methodology.*  
 
 ---
 
