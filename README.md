@@ -54,6 +54,9 @@ I believe **rigorous analysis meets its full potential through creativity and co
 
 ## 📊 Featured Projects
 
+- 📌 [RAG for CSEC](https://github.com/SimplyTim/CSEC-IT-RAG)  
+  **
+
 - 📌 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)  
   *Visualizing Canadian real estate trends with interactivity and filters.*
 
