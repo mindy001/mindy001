@@ -1,113 +1,189 @@
+<div align="center">
+
 # 👋 Hi, I'm Mindy (Fazeeia Mohammed)
 
-🎓 MSc Data Science @ UBC | 📊 Turning Data into Insight | 🤖 ML for Impact | 🌱 Building Sustainable Solutions with Code  
-📍 Based in Canada, originally from the Caribbean  
-📫 Reach me: mindy.moh@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed) | [GitHub](https://github.com/mindy001)
+### 📊 Data Scientist | 🌱 Sustainability Advocate | 🤖 ML Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fazeeia-mohammed)
+[![Email](https://img.shields.io/badge/Email-mindy.moh%40gmail.com-red?style=flat&logo=gmail)](mailto:mindy.moh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mindy001)
+
+🎓 **MSc Data Science @ UBC** | 📍 Vancouver, Canada 🇨🇦 (Originally from the Caribbean 🌴)
+
+</div>
 
 ---
 
-## 👩🏽‍💻 About Me
+## 💫 About Me
 
-I'm a Data Scientist with a unique interdisciplinary background in **Computer Science** and **Environmental & Natural Resource Management**. I'm passionate about driving data-informed decisions in **sustainability, energy, ESG, and social impact**.
+I'm a **Data Scientist** with a unique interdisciplinary background bridging **Computer Science** and **Environmental & Natural Resource Management**. I'm passionate about using data to drive impact in **sustainability, energy, ESG, and social good**.
 
-With 5+ years of experience across **banking, telecom, energy, agriculture**, and **NGOs**, I’ve built everything from **real-time pipelines** and **ML models** to **interactive dashboards** that improve transparency, planning, and outcomes.
-
-I believe **rigorous analysis meets its full potential through creativity and communication** from data collection to dashboard delivery. I'm always exploring ways to simplify complexity, question assumptions, and create smarter systems for people and the planet.
-
----
-
-## 📈 Experience Highlights
-
-**Sustainability Data Specialist – Republic Bank**  
-• Built ESG dashboards in Power BI using the Updapt platform  
-• Automated sustainability KPI tracking aligned with GRI/SASB  
-• Led fraud detection analytics using anomaly detection  
-
-**Data Analyst – Rystad Energy & Digicel**  
-• Engineered pipelines and forecasting tools for energy markets  
-• Built churn models, NLP tools, and fraud detection pipelines  
-• Boosted customer retention and improved decision-making with ML  
-
-**AI & ML Instructor – SBCS Global Learning Institute**  
-• Designed and taught an 8-week applied AI course for professionals  
-
-**Researcher & Technical Lead – TTLAB / Cropper Foundation**  
-• Led mobile ML projects for agricultural resilience and climate adaptation  
-• Developed drone-based and sensor-integrated crop stress forecasting tools  
+🔹 **5+ years** building ML models, data pipelines, and dashboards across **banking, telecom, energy, agriculture**, and **NGOs**  
+🔹 Turning complex data into **actionable insights** that improve transparency, planning, and outcomes  
+🔹 Believer that **rigorous analysis** meets its full potential through **creativity and communication**
 
 ---
 
-## 🧠 Skills & Technologies
+## 🚀 What I Do
 
-| Area            | Tools / Languages |
-|-----------------|-------------------|
-| **Languages**   | Python, SQL, R, Java, C++, Shell, JavaScript, HTML/CSS |
-| **ML & Analytics** | Pandas, scikit-learn, PyTorch, Keras, XGBoost, BERT, NLP, Forecasting |
-| **Databases**   | MySQL, Azure SQL, MongoDB |
-| **Visualization** | Power BI, Tableau, Excel, Matplotlib, Seaborn |
-| **Cloud & DevOps** | Azure, AWS, Databricks, Docker, GitHub Actions |
-| **Automation**  | UiPath, Updapt ESG Platform, Toad |
-| **Environments** | VS Code, Jupyter, Linux |
-| **Languages (Spoken)** | English (Fluent), Spanish (Intermediate) |
+```python
+expertise = {
+    "domains": ["Sustainability", "ESG", "Energy", "Agriculture", "Finance"],
+    "focus": ["Machine Learning", "Data Analytics", "Pipeline Engineering"],
+    "passion": "Building smarter systems for people and the planet 🌍"
+}
+```
 
 ---
 
-## 📊 Featured Projects
+## 💼 Professional Experience
 
-- 📌 [RAG for CSEC](https://github.com/SimplyTim/CSEC-IT-RAG)  
-  **
+### 🏦 **Sustainability Data Specialist** | Republic Bank
+- 📊 Built ESG dashboards in Power BI using Updapt platform
+- 📈 Automated sustainability KPI tracking (GRI/SASB aligned)
+- 🔍 Led fraud detection analytics with anomaly detection
 
-- 📌 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)  
-  *Visualizing Canadian real estate trends with interactivity and filters.*
+### ⚡ **Data Analyst** | Rystad Energy & Digicel
+- 🔧 Engineered pipelines and forecasting tools for energy markets
+- 🤖 Built churn models, NLP tools, and fraud detection systems
+- 📉 Boosted customer retention through ML-driven insights
 
-- 📌 [NIH Chest X-Ray Classifier](https://github.com/mindy001/NIH-Chest-XRay-Classifier)  
-  *Deep learning model for multi-label classification of chest X-rays.*
+### 👨‍🏫 **AI & ML Instructor** | SBCS Global Learning Institute
+- 🎓 Designed and taught 8-week applied AI course for professionals
+- 💡 Hands-on curriculum covering real-world ML applications
 
-- 📌 [Carbon-Aware ML Package (Capstone)](https://github.com/mindy001/carbon-aware-ml)  
-  *Python tool + dashboard for monitoring carbon impact of ML training.UNDER CONSTRUCTION *
+### 🌾 **Researcher & Technical Lead** | TTLAB / Cropper Foundation
+- 🚁 Led drone-based ML projects for agricultural resilience
+- 🌡️ Developed sensor-integrated crop stress forecasting
+- 🌍 Climate adaptation solutions for Caribbean agriculture
 
-- 📌 [Feature Selection Toolkit](https://github.com/mindy001/FeatureSelection)  
-  *Analyzing and ranking feature importance in real-world datasets.*
-  
-- 📌 [Bank Marketing Campaign Prediction](https://github.com/UBC-MDS/BankMarketingPreditions-)  
-  *Collaborative ML project to predict customer subscription to term deposits using logistic regression and decision trees. The models reached up to **89.7% accuracy**, highlighting challenges of class imbalance and offering strategies for better marketing targeting.*
-  
-- 📌 [Sano-Bot](https://github.com/TyreseLake/SanoBot-Chatbot)  
-  *SanoBot is a healthcare Chatbot developed by Hotfix2020 using Dialogflow. It was created inorder for users to describe symptoms and determine a list of potential illnesses user may have as well as information on how contagious these illnesses might be. The team developed this application using the SCRUM methodology.*  
+---
 
-- 📌 [Pharmacy-Frontend](https://uwi-hsu-pharmacy.netlify.app/)
-  
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**ML & Data Science**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+**Cloud & Tools**  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+**Databases**  
+MySQL • Azure SQL • MongoDB
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 [RAG for CSEC](https://github.com/SimplyTim/CSEC-IT-RAG)
+Retrieval-Augmented Generation system for educational resources using advanced NLP
+
+</td>
+<td width="50%">
+
+### 🏠 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)
+Interactive real estate trends visualization with filters and insights
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🩺 [NIH Chest X-Ray Classifier](https://github.com/mindy001/NIH-Chest-XRay-Classifier)
+Deep learning model for multi-label classification of chest X-rays
+
+</td>
+<td width="50%">
+
+### 🎯 [Feature Selection Toolkit](https://github.com/mindy001/FeatureSelection)
+Analyzing and ranking feature importance in real-world datasets
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [Bank Marketing Prediction](https://github.com/UBC-MDS/BankMarketingPreditions-)
+ML models predicting term deposit subscriptions with **89.7% accuracy**
+
+</td>
+<td width="50%">
+
+### 🤖 [Sano-Bot Healthcare Chatbot](https://github.com/TyreseLake/SanoBot-Chatbot)
+Dialogflow chatbot for symptom analysis and illness identification
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📚 Research & Publications
 
-📄 *Weed and Water Stress Detection using Drone Video*  
-🏆 Best Paper – ICoSIA 2022 | [Read here](https://www.atlantis-press.com/proceedings/icosia-22)
+📄 **[Weed and Water Stress Detection using Drone Video](https://www.atlantis-press.com/proceedings/icosia-22)** 🏆 *Best Paper – ICoSIA 2022*
 
-📄 *Machine Learning in Agriculture of Caribbean SIDS*  
-Celebrating 100 Years of Agricultural Research | [Read here](https://online.pubhtml5.com/vilk/tcus/#p=1)
+📄 **[Machine Learning in Agriculture of Caribbean SIDS](https://online.pubhtml5.com/vilk/tcus/#p=1)** – *Celebrating 100 Years of Agricultural Research*
 
-📄 *Open Dataset of Labeled Tropical Crops* – ICoSIA 2022 | [Read](https://www.atlantis-press.com/proceedings/icosia-22)
+📄 **[Open Dataset of Labeled Tropical Crops](https://www.atlantis-press.com/proceedings/icosia-22)** – *ICoSIA 2022*
 
-📄 *Bilingual NLP Models for the Caribbean* – ICACECS 2023 | [PDF](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)
+📄 **[Bilingual NLP Models for the Caribbean](https://lab.tt/wp-content/uploads/2023/12/Bilingual_Dialect-Classification-using_NLP.pdf)** – *ICACECS 2023*
 
 ---
 
-## 🏆 Awards & Community Involvement
+## 🏆 Awards & Recognition
 
-- 🧠 **AI for Earth Grant** – Microsoft + National Geographic ($70,000)  
-- 🏅 **Best Paper** – Drone-Based Crop Detection (ICoSIA 2022)  
-- 👩🏽‍🏫 Mentor – WiDS Datathon 2023 & Cropper Internship Program 2022  
-- 💻 ICPC Regional Programming Contest – 2021  
-- 🎙️ Speaker – Women in Data Science, World Wildlife Day Panel  
-
----
-
-## 🔗 Let's Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/fazeeia-mohammed)  
-📁 [GitHub](https://github.com/mindy001)  
-📫 Email: [mindy.moh@gmail.com](mailto:mindy.moh@gmail.com)
+🥇 **AI for Earth Grant** – Microsoft + National Geographic **($70,000)**  
+🏅 **Best Paper Award** – Drone-Based Crop Detection (ICoSIA 2022)  
+👩🏽‍🏫 **Mentor** – WiDS Datathon 2023 & Cropper Internship Program 2022  
+💻 **Competitor** – ICPC Regional Programming Contest 2021  
+🎙️ **Speaker** – Women in Data Science, World Wildlife Day Panel
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindy001&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mindy001&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on projects at the intersection of **data science**, **sustainability**, and **social impact**. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fazeeia-mohammed)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mindy.moh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/mindy001)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Turning data into insights, insights into impact"* ✨
+
+</div>
