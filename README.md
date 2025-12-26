@@ -36,6 +36,33 @@ expertise = {
 
 ---
 
+## 🌍 Flagship Impact Project
+
+### 🌱 **FAAIR — Farming Adaptation & Artificial Intelligence for Resilience**  
+**Microsoft × National Geographic – AI for Earth Innovation Grant ($70,000)**
+
+🔗 **[Project Overview](https://mindy001.github.io/Microsoft-and-National-Geographic-AI-for-Earth-Innovation-Grant/)**
+
+The **FAAIR project** leverages **AI and drone technology** to address critical agricultural challenges in **Caribbean Small Island Developing States (SIDS)**. The project focuses on improving **climate resilience, yield stability, and decision-making** for **smallholder farmers** under increasing climate stress.
+
+**Key Contributions**
+- 🚁 Designed **drone-based computer vision pipelines** for tropical agriculture  
+- 🌾 Developed **weed detection models** to reduce herbicide use and manual labor  
+- 💧 Built **water stress identification systems** to support drought adaptation  
+- 📊 Delivered farmer-oriented, **accessible AI-powered decision tools**
+
+**Models & Techniques**
+- **XGBoost** for structured agronomic features  
+- **CNNs** for aerial imagery and crop condition detection  
+- **Support Vector Machines (SVMs)** for robust classification under limited-data settings  
+
+**Impact**
+- Enables **precision agriculture** in climate-vulnerable regions  
+- Bridges **research, deployment, and policy relevance**  
+- Emphasizes **interpretability, accessibility, and sustainability**, not just accuracy
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏦 **Sustainability Data Specialist** | Republic Bank
@@ -155,4 +182,3 @@ Dialogflow chatbot for symptom analysis and illness identification
 🎙️ **Speaker** – Women in Data Science, World Wildlife Day Panel
 
 ---
-
