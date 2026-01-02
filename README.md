@@ -124,7 +124,7 @@ Retrieval-Augmented Generation system for educational resources using advanced N
 </td>
 <td width="50%">
 
-### 🏠 [Canadian House Prices Dashboard](https://canadian-house-prices.onrender.com/)
+### 🏠 [Canadian House Prices Dashboard](https://github.com/UBC-MDS/DSCI-532_2025_18_canadian-house-prices)
 Interactive real estate trends visualization with filters and insights
 
 </td>
