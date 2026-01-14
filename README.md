@@ -60,6 +60,30 @@ The **FAAIR project** leverages **AI and drone technology** to address critical 
 - Enables **precision agriculture** in climate-vulnerable regions  
 - Bridges **research, deployment, and policy relevance**  
 - Emphasizes **interpretability, accessibility, and sustainability**, not just accuracy
+### 🎤 **Isla AI — Caribbean Creole Voice Transcription (Zindi Hackathon)**  
+**Zindi Hackathon | Speech Recognition • NLP • Social Impact**
+
+🔗 Live Demo & Presentation: **[Isla AI Slides](https://overflowanalytics.github.io/Zindi_Hackathon/)**
+
+**Isla AI** is a voice-first AI platform built to **understand Caribbean Creole, Patois, and Caribbean English variants**, tackling the digital exclusion of millions whose speech isn’t supported by mainstream assistants (e.g., Siri, Alexa). The project includes both a **custom ASR/NLP model** and a **deployment-focused proposal** for government and social services.
+
+**Highlights**
+- 🎙️ Built **accent-robust ASR models** for Caribbean dialects  
+- 🤖 Designed AI architecture for **voice-driven government & public services**  
+- 🧠 Emphasis on accessibility, low-resource settings, and cultural preservation  
+- 📊 Created **HTML-based interactive slides** to communicate outcomes
+
+**Impact Focus**
+- 🏛️ Faster access to essential services  
+- 🌾 Voice tools for agricultural advisory  
+- ♿ Inclusion for low-literacy and visually impaired users
+
+---
+
+### 🏅 **Zindi Competition Portfolio & Certificates**
+
+📜 Explore all competitions I’ve participated in, including scores, badges, and certificates:  
+🔗 **[View My Zindi Portfolio](https://zindi.africa/users/FazeeiaMohammed/competitions/portfolio)**
 
 ---
 
